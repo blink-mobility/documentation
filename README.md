@@ -1,7 +1,7 @@
 # 02_BlinkMobility
-![Alt Text](/images/Image2)
 
 ## Problem description:
+people with impairments -> reduced mobility access, 
 ## Proposed solution:
 ## Outcome:
 
