@@ -4,7 +4,7 @@
 People with impairments <br/>
 -> reduced mobility access <br/>
 -> no easy access for public transport<br/>
--> needs 3 days in advance to book for alternative ride services <br/>
+-> need 3 days in advance to book for alternative ride services <br/>
 
 ## Proposed solution:
 
