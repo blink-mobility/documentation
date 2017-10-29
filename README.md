@@ -1,4 +1,4 @@
-[# 02_BlinkMobility
+# 02_BlinkMobility
 
 ## Problem description:
 People with impairments <br/>
